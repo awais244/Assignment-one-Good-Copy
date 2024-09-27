@@ -1,1 +1,8 @@
-Research here
+## Comparison with Academic Goals
+
+In Belgrad’s (2013) article, student portfolio goals focus on reflection, self-assessment, and goal setting within a structured learning environment. These goals are often tied to academic success, skill development, and the demonstration of growth in measurable ways, such as through assignments or project milestones. In contrast to my personal goals emphasize holistic development, focusing not only on professional achievements but also on emotional, relational, and creative growth. For example, goals like strengthening family bonds, achieving fluency in a new language, and exploring new art forms go beyond traditional academic metrics, allowing for personal fulfillment and exploration.
+
+While academic portfolios prioritize reflection on skill mastery and learning outcomes, my goals are more fluid and self-directed. They highlight experiences like planning family vacations, launching a YouTube channel, and exploring nature, which aren't typically found in academic portfolios but contribute significantly to personal growth. Both types of goals, however, share a common focus on continuous improvement and reflection, whether it's about professional skills in a classroom setting or personal achievements in real life.
+
+## Citation:
+Belgrad, Susan F. “Portfolios and E-Portfolios: Student Reflection, Self-Assessment, and Goal Setting in the Learning Process.” SAGE Handbook of Research on Classroom Assessment, SAGE Publications, Inc, 2013, pp. 330–46, https://doi.org/10.4135/9781452218649.n19.
